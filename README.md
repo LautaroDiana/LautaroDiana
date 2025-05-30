@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 # 🚀Hello there!:
 ENGLISH DESCRIPTION BELOW!!!
 
-Hola! Mi nombre es Lautaro y vivo en Buenos Aires, Argentina. Actualmente busco trabajo para posiciones relacionadas con desarrollo Full Stack. Si estas leyendo esto, [te dejo el link de mi CV aqui.](https://github.com/LautaroDiana/CV-Resume/blob/main/LautaroDianaCV.pdf).
+Hola! Mi nombre es Lautaro y vivo en Buenos Aires, Argentina. Actualmente busco trabajo para posiciones relacionadas con desarrollo Full Stack. Si estas leyendo esto, [te dejo el link de mi CV aqui.](https://drive.google.com/file/d/1f9uaBAPI0GSRpwlCKaaBHuFz2GMImaQX/view?usp=drive_link).
 
 Mantengamonos en contacto a traves de LinkedIn: www.linkedin.com/in/lautarodiana
 _________________________________________________________________________________________________________________________________
 
-Hi! My name is Lautaro and live in Buenos Aires, Argentina. I'm currently looking for a job as a Full Stack Developer or any other related field. If you're reading this and you're interested, [I have my resume here.](https://github.com/LautaroDiana/CV-Resume/blob/main/LautaroDianaResume.pdf).
+Hi! My name is Lautaro and live in Buenos Aires, Argentina. I'm currently looking for a job as a Full Stack Developer or any other related field. If you're reading this and you're interested, [I have my resume here.](https://drive.google.com/file/d/1pt1SQuJFlFQEX2X8S5ZjZZovZny1rxaM/view?usp=drive_link).
 
 Let's make contact through LinkedIn: www.linkedin.com/in/lautarodiana
